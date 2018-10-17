@@ -1,6 +1,6 @@
 <h1> <center> Tromsøstudentenes Dataforening </center> </h1>
 
-*Møte Onsdag 12. September 2018 kl 16:16 @ Rom A242, Realfagsbygget UiT*
+*Møte Onsdag 26. September 2018 kl 16:16 @ Rom A242, Realfagsbygget UiT*
 
 **Til stede:**
 * J. Johansen
