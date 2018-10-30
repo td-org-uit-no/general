@@ -125,6 +125,6 @@ Tre roller :
 
 Forslag til å ha bedrift info på nettsiden vår, så de kan bli nådd av studentene. Få dette ut på git, slik at arbeidsmengden på nettsiden kan bli fordelt. Teknisk kan ta avgjørelser av hva som fungere best ang nettsiden.
 
-# 4 Sist
+# 4. Sist
 Neste møte: Mandag 15.oktober kl 16:16, rom ikke bestemt
 28/9-2018 Mariel Ellingsen
