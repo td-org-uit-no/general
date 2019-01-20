@@ -17,7 +17,7 @@
 
 # 1. Generelt
 ## Innkalling
-Innkalling til møtet ikke godkjent. Ble sendt ut sent.<br>
+Innkalling til møtet ikke godkjent. Ble sendt ut sent.<br/>
 Referat fra forrige møtet er godkjent.  
 
 # 2. Agenda
@@ -41,24 +41,24 @@ Jon pratet med Kai-Even i Desember. Fikk svar at det var stor
 sannsynlighet for å få et låst skap eller noe i den duren for oppbevaring av div ting
 som TD har. Vi må selv plukke ut
 hva vi vil ha (mtp skap) fra UiT sin innbestillings side, å finne ut hvor
-vi skal ha skapet. <br> 
-Under trappa på Realfagsbygget høres er et passende sted. <b>
+vi skal ha skapet. <br/> 
+Under trappa på Realfagsbygget høres er et passende sted.<br/>
 Teknisk tar opp kontakt med Kai-Even og ordner dette.
 
 ### Workshop med bedrifter
 Jon i kontakt med Kai-Even ang hvor vi kan ha workshops.
-Tenker da spesielt med loddingen som Bouvet skal ha. <b> 
+Tenker da spesielt med loddingen som Bouvet skal ha. <br/> 
 Må være IFI ansatt til stede for bruk av skolelabben. Øystein (ansatt ved IFI) har sakt at han skal sjekke kallenderen sin, men er positiv til å kunne være med.
-Når dette er bekreftet sendes mail til Kai-Even. <b>
+Når dette er bekreftet sendes mail til Kai-Even. <br/>>
 Generelt ellers med workshop og auditrorier ikke skal brukes, skal 
 skal rommene nede på data labben brukes. 
 
 ### Vaffelkoding, kaffe og kos, TDTtalks
 Kai-Even har sakt at IFI blir å sponse arrangementene TD holder som har faglig
-innhold.<b> Tenker å slå sammen tidligere (og misslyket) "Vaffelkoding" med 
-TD sitt nye intiativ "TDTalks". Idé er da å ha faglig innhold fra kl 16-17 (selve TDTalks) og vaffler/pizza (sponset av IFI) kl 17-18. <b>
+innhold.<br/> Tenker å slå sammen tidligere (og misslyket) "Vaffelkoding" med 
+TD sitt nye intiativ "TDTalks". Idé er da å ha faglig innhold fra kl 16-17 (selve TDTalks) og vaffler/pizza (sponset av IFI) kl 17-18. <br/>
 Ønsker å kjøre TD talks en fast dag i måneden samt fortsetter med kaffe
-og kos. <b>
+og kos. <br/>
 Kaffe og kos, siste fredag i mnd fra kl 14-16. 
 
 ### Ansvarsposter
@@ -69,7 +69,7 @@ har meldt seg frivelig, og er åpent for at andre medlemer som har lyst engasjer
 
 ### Pant på datalabben
 Hvem har ansvar for å ta pant på labben?
-Er vi interesert i å gjøre dette? <b>
+Er vi interesert i å gjøre dette? <br/>
 Ella tar ansvar fra vår side og sjekker dette ut. 
 
 ### SPRINT nå Søndag kl 11
@@ -100,7 +100,7 @@ Er enda litt igjen av oppsett før det er klart til bruk.
 Jon har laget de tilsendte bulletinene fine, og ser ut nå som små bøker. 
 Disse blir og legges ut på labben slik at folk kan lese om ønskelig. 
 Skal lages pdf format av de slik at det lett kan printes flere hvis noen 
-blir ødelagt. Jon har brukt mange printer poeng på disse. Les i de. <b>
+blir ødelagt. Jon har brukt mange printer poeng på disse. Les i de. <br/>
 Jon er fornøyd med mesterverket sitt, og skal fortsette å
 tweeke på suksessen sin. 
 
@@ -124,5 +124,5 @@ Bekk kommer dette semmesteret, ikke planlagt dato. Ella har ansvar.
 
 
 # 4 Sist
-Neste møte: Tirsdag 16. Januar kl 16:16 @ Realfagsbygget Rom A036.<br>
+Neste møte: Tirsdag 16. Januar kl 16:16 @ Realfagsbygget Rom A036.<br/>
 20/1-2019 Mariel Ellingsen
