@@ -1,0 +1,128 @@
+<h1> <center> Tromsøstudentenes Dataforening </center> </h1>
+
+*Møte Onsdag 16. Januar 2019 kl 16:16 @ Rom A036, Realfagsbygget UiT*
+
+**Til stede:**
+* J. Johansen
+* E. Andersen
+* J. Alslie
+* B. Johansen
+* S. Christiansen
+* S. Haldar-Iversen
+* H. Rafshol
+* M. Ellingsen
+
+
+#### Referent:  M. Ellingsen
+
+# 1. Generelt
+## Innkalling
+Innkalling til møtet ikke godkjent. Ble sendt ut sent.<br>
+Referat fra forrige møtet er godkjent.  
+
+# 2. Agenda
+* :purple_heart: TD oppbevaring
+* :purple_heart: Workshop med bedrifter
+* :purple_heart: Vaffelkoding, kaffe og kos, TDTtalks 
+* :purple_heart: Ansvarsposter
+* :purple_heart: Pant på datalabben
+* :purple_heart: SPRINT nå Søndag kl 11
+* :purple_heart: Prikksystemet
+* :purple_heart: Server regelverk
+* :purple_heart: Server rom
+* :purple_heart: Bulletiner
+* :purple_heart: Bedriftpresentasjoner vår 2019
+* :purple_heart: Sosiale arrangementer
+
+
+# 3. Saker
+### TD oppbevaring
+Jon pratet med Kai-Even i Desember. Fikk svar at det var stor
+sannsynlighet for å få et låst skap eller noe i den duren for oppbevaring av div ting
+som TD har. Vi må selv plukke ut
+hva vi vil ha (mtp skap) fra UiT sin innbestillings side, å finne ut hvor
+vi skal ha skapet. <br> 
+Under trappa på Realfagsbygget høres er et passende sted. <b>
+Teknisk tar opp kontakt med Kai-Even og ordner dette.
+
+### Workshop med bedrifter
+Jon i kontakt med Kai-Even ang hvor vi kan ha workshops.
+Tenker da spesielt med loddingen som Bouvet skal ha. <b> 
+Må være IFI ansatt til stede for bruk av skolelabben. Øystein (ansatt ved IFI) har sakt at han skal sjekke kallenderen sin, men er positiv til å kunne være med.
+Når dette er bekreftet sendes mail til Kai-Even. <b>
+Generelt ellers med workshop og auditrorier ikke skal brukes, skal 
+skal rommene nede på data labben brukes. 
+
+### Vaffelkoding, kaffe og kos, TDTtalks
+Kai-Even har sakt at IFI blir å sponse arrangementene TD holder som har faglig
+innhold.<b> Tenker å slå sammen tidligere (og misslyket) "Vaffelkoding" med 
+TD sitt nye intiativ "TDTalks". Idé er da å ha faglig innhold fra kl 16-17 (selve TDTalks) og vaffler/pizza (sponset av IFI) kl 17-18. <b>
+Ønsker å kjøre TD talks en fast dag i måneden samt fortsetter med kaffe
+og kos. <b>
+Kaffe og kos, siste fredag i mnd fra kl 14-16. 
+
+### Ansvarsposter
+Ansvarlig for booking av rom: Jokaim gjør dette fra nå av.
+Sosiale mediaer: burde ha en egen person som tar ansvar for at alt av
+info og arrangementer kommer ut på Facebook og diverse. Er ingen i styret som
+har meldt seg frivelig, og er åpent for at andre medlemer som har lyst engasjerer seg i dette. 
+
+### Pant på datalabben
+Hvem har ansvar for å ta pant på labben?
+Er vi interesert i å gjøre dette? <b>
+Ella tar ansvar fra vår side og sjekker dette ut. 
+
+### SPRINT nå Søndag kl 11
+* :purple_heart: Oppdatere nåværende nettside
+* :purple_heart: Intro til HTTPD? (TD sin nettside) 
+* :purple_heart: Lage arrangement plakat
+* :purple_heart: Oppdatere facebook
+* :purple_heart: Leke litt med tanken om automatisk prikksystem gjennom nettsiden
+* :purple_heart: Brønnøysund registeret må oppdateres.
+* :purple_heart: Delloitt skal opp og promoteres
+* :purple_heart: Javazone kommer, promotere dette
+
+### Prikksystemet
+Blir å kjøre dette på de neste bedpressene. Bekreftelse
+for plass sendes ut tre dager før arrangement. Avbekreftelse må sendes til ansvarlig
+i TD minst 1 dag før bedpress.
+
+### Server regelverk
+Forslag for server regelverk ligger i en repo på TD sin github. Kan sendes inn andre forslag og kommentarer ang de som er skrevet til Bjørn eller Joakim. 
+
+###  Server rom
+Har fått våres eget sted på uni til ha å server rommet våres. 
+Har tydeligvis latterlig mye lagringsplass på servere.
+Pornografisk snakk fra Bjørn ang virtuelle maskiner, clustering m.m.
+Er enda litt igjen av oppsett før det er klart til bruk. 
+
+### Bulletiner
+Jon har laget de tilsendte bulletinene fine, og ser ut nå som små bøker. 
+Disse blir og legges ut på labben slik at folk kan lese om ønskelig. 
+Skal lages pdf format av de slik at det lett kan printes flere hvis noen 
+blir ødelagt. Jon har brukt mange printer poeng på disse. Les i de. <b>
+Jon er fornøyd med mesterverket sitt, og skal fortsette å
+tweeke på suksessen sin. 
+
+### Bedriftpresentasjoner vår 2019
+Telia, 18. Januar fra 16 og utover. Jon har ansvar.
+Delloitt, 29. Januar. Mariel har ansvar. 
+Bouvet har lodde workshop 4. Februar fra kl 14, skal fikses rom. Jon har ansvar.
+JavaZone kommer den 14. Dette blir gøy. Mariel har ansvar. 
+Netcompany kommer desverre ikke dette semesteret. 
+Bekk kommer dette semmesteret, ikke planlagt dato. Ella har ansvar.
+
+### Sosiale arrangementer
+- Game of thrones - Se første episode sammen, sjekke ut stemning for dette.
+- Sightsing av supermaskinene, Bjørn fikser dette, etterfulgt av Wargames på film.
+- Vors neste fredag, 25 januar. Ella fikser snacks samt lokale.
+- Bowling, ligger på vent. 
+- Spillbula, ligner på en pub med arkade maskiner og vanlige maskiner.
+        Får mere info, Nikolai er i kontakt. 
+- Hyttetur, Skibotten er ikke aktuelt, ikke ledig. 
+        Skal sees litt mere på det, kanskje leie privat.
+
+
+# 4 Sist
+Neste møte: Tirsdag 16. Januar kl 16:16 @ Realfagsbygget Rom A036.<br>
+20/1-2019 Mariel Ellingsen
