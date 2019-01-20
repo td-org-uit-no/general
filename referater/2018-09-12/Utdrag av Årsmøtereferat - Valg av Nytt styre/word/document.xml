@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+  mc:Ignorable="w14 w15 w16se wp14">
+  <w:body>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="Title" />
+        <w:jc
+          w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>Troms</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>ø</w:t>
+      </w:r>
+      <w:r>
+        <w:t>studentenes Dataforening</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:jc
+          w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>Å</w:t>
+      </w:r>
+      <w:r>
+        <w:t>rsm</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>ø</w:t>
+      </w:r>
+      <w:r>
+        <w:t
+          xml:space="preserve">te Onsdag 12.September 2018 </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>kl</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve"> 16.16 @ Rom A228, Realfagsbygget</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:jc
+          w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t
+          xml:space="preserve">Til stede: </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>S.Coucheron</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>M.Stensen</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>F.Rasch</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>M.Ringsby</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>B.Johansen</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:br />
+      </w:r>
+      <w:r>
+        <w:t>Ogs</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>å</w:t>
+      </w:r>
+      <w:r>
+        <w:t
+          xml:space="preserve"> til stede: </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>P.Aurdal</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>J.Johansen</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, M. Johansen, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>M.Ellingsen</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>E.Andersen</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="Heading1" />
+      </w:pPr>
+      <w:r>
+        <w:t>Valg av nytt styre</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Leder</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Jon Johansen stiller til valg</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Ingen flere stiller, og det er Ingen motsigelser p</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>å</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t
+          xml:space="preserve"> Jon som ny leder</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Jon velges herved som leder fra dags dato</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Nestleder</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Mariel Ellingsen stiller til valg</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Ingen flere stiller, og det er ingen motsigelser på Mariel som ny nestleder</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Mariel velges som nestleder fra dags dato</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts
+            w:hint="cs" />
+        </w:rPr>
+        <w:t>Ø</w:t>
+      </w:r>
+      <w:r>
+        <w:t>konomiansvarlig</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Fredrik Rasch stiller til valg</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Ingen flere stiller, og det er ingen motsigelser på Fredrik som økonomiansvarlig.</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Mariel velges som nestleder fra dags dato</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Arrangementsansvarlig</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Elisabeth Andersen stiller til valg</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00A22F05">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Ingen flere stiller, og det er ingen motsigelser på Elisabeth som ny</w:t>
+      </w:r>
+      <w:r>
+        <w:t
+          xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>arrangementsansvarlig</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Elisabeth velges som arrangementsansvarlig fra dags dato</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>To teknisk ansvarlige</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Bjørn Johansen stiller til valg</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Ingen flere stiller, og det er ingen motsigelser på Bjørn som teknisk ansvarlig</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="1" />
+          <w:numId
+            w:val="4" />
+        </w:numPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Bjørn velges som teknisk ansvarlig fra dags dato</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Nesten hele styret er herved valgt, mangler kun en teknisk ansvarlig.</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="002B2E9D"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts
+            w:ascii="ArialMT"
+            w:cs="ArialMT" />
+          <w:sz
+            w:val="20" />
+          <w:szCs
+            w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r
+        w:rsidRPr="00140DF1">
+        <w:t>Ekstraordinært møte vil bli avholdt for å velge resterende medlem i styret.</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="Heading1" />
+      </w:pPr>
+      <w:r>
+        <w:t>Vedlegg: Referat fra ekstraordinært møte for vedtak av manglende styremedlemmer</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="005B459A"
+      w:rsidRPr="005B459A"
+      w:rsidRDefault="005B459A"
+      w:rsidP="005B459A">
+      <w:pPr>
+        <w:pStyle
+          w:val="Subtitle" />
+      </w:pPr>
+      <w:r>
+        <w:t
+          xml:space="preserve">Dato: </w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve">Onsdag 26. September 2018 </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>kl</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve"> 16:16 @ Rom A242, Realfagsbygget UiT</w:t>
+      </w:r>
+      <w:r>
+        <w:br />
+        <w:t
+          xml:space="preserve">Til stede: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>J. Johansen</w:t>
+      </w:r>
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>E. Andersen</w:t>
+      </w:r>
+      <w:r>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve">J. </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>Alslie</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>B. Johansen</w:t>
+      </w:r>
+      <w:r>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>F.Rasch</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>S. Christiansen</w:t>
+      </w:r>
+      <w:r>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:br />
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>N. Magnussen</w:t>
+      </w:r>
+      <w:r>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t
+          xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r
+        w:rsidRPr="005B459A">
+        <w:t>S.Coucheron</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>M.Ringsby</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r>
+        <w:t
+          xml:space="preserve">P. </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>Kraabøl</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r>
+        <w:t>M. Ellingsen.</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="6" />
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t
+          xml:space="preserve">Joakim </w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellStart" />
+      <w:r>
+        <w:t>Alslie</w:t>
+      </w:r>
+      <w:proofErr
+        w:type="spellEnd" />
+      <w:r>
+        <w:t
+          xml:space="preserve"> velges ved akklamasjon som styremedlem og teknisk ansvarlig.</w:t>
+      </w:r>
+    </w:p>
+    <w:p
+      w:rsidR="00140DF1"
+      w:rsidRPr="00140DF1"
+      w:rsidRDefault="00140DF1"
+      w:rsidP="00140DF1">
+      <w:pPr>
+        <w:pStyle
+          w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl
+            w:val="0" />
+          <w:numId
+            w:val="6" />
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Silje Christiansen velges ved akklamasjon som styremedlem og økonomiansvarlig med tiltredelse fra 01.01.2019.</w:t>
+      </w:r>
+      <w:bookmarkStart
+        w:id="0"
+        w:name="_GoBack" />
+      <w:bookmarkEnd
+        w:id="0" />
+    </w:p>
+    <w:sectPr
+      w:rsidR="00140DF1"
+      w:rsidRPr="00140DF1">
+      <w:pgSz
+        w:w="11906"
+        w:h="16838" />
+      <w:pgMar
+        w:top="1417"
+        w:right="1417"
+        w:bottom="1417"
+        w:left="1417"
+        w:header="708"
+        w:footer="708"
+        w:gutter="0" />
+      <w:cols
+        w:space="708" />
+      <w:docGrid
+        w:linePitch="360" />
+    </w:sectPr>
+  </w:body>
+</w:document>
