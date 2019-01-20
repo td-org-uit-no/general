@@ -74,7 +74,7 @@ Ella tar ansvar fra vår side og sjekker dette ut.
 
 ### SPRINT nå Søndag kl 11
 * :purple_heart: Oppdatere nåværende nettside
-* :purple_heart: Intro til HTTPD? (TD sin nettside) 
+* :purple_heart: Intro til tdctl-httpd (TD sin nettside) 
 * :purple_heart: Lage arrangement plakat
 * :purple_heart: Oppdatere facebook
 * :purple_heart: Leke litt med tanken om automatisk prikksystem gjennom nettsiden
@@ -107,7 +107,7 @@ tweeke på suksessen sin.
 ### Bedriftpresentasjoner vår 2019
 Telia, 18. Januar fra 16 og utover. Jon har ansvar.
 Delloitt, 29. Januar. Mariel har ansvar. 
-Bouvet har lodde workshop 4. Februar fra kl 14, skal fikses rom. Jon har ansvar.
+Bouvet har lodde workshop 4. Februar fra kl 15, skal fikses rom. Jon har ansvar.
 JavaZone kommer den 14. Dette blir gøy. Mariel har ansvar. 
 Netcompany kommer desverre ikke dette semesteret. 
 Bekk kommer dette semmesteret, ikke planlagt dato. Ella har ansvar.
