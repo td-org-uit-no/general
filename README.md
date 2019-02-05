@@ -2,7 +2,8 @@
 > En samling av dokumenter som referater, vedtekter, møteinnkalling etc
 
 * Referater kan finnes under [`/referater/`](./referater/)
-* Vedtekter kan finned under [`/vedtekter/`](./vedtekter/)
+* Vedtekter kan finnes under [`/vedtekter/`](./vedtekter/)
+* Innkallinger kan finnes under [`/innkallinger/`](./innkallinger/)
 
 
 
