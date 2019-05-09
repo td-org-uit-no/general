@@ -26,7 +26,7 @@ Sakspapirer offentliggjøres én uke før møtet.
 
 3.  Alle studenter som er registrert medlem i TD møter med tale-, forslags- og stemmerett.
 
-4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2-2c.
+4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2-2.3.
 
 ### §2.3 Saker som behandles på årsmøtet
 Årsmøtet skal behandle:
@@ -44,7 +44,8 @@ Sakspapirer offentliggjøres én uke før møtet.
 Studenter kan sende inn saker til årsmøtet inntil åtte dager før møtet avholdes. Forslag til vedtak som kommer under møtet må komme skriftlig til møteleder.
 
 ### §2.3.1
-I forkant av årsmøte vil det være mulig å gjøre en nominasjon av æresmedlem i TD. Æresmeldlem utnevnet basert på kriteriene i §4.3.1
+I forkant av årsmøte vil det være mulig å gjøre en nominasjon av æresmedlem i TD. Æresmeldlem utnevnet basert på kriteriene i §4.5.1
+
 ### §2.4 Ekstraordinært årsmøte
 Ekstraordinært årsmøte skal avholdes ved skriftlig krav fra minst 5 medlemmer i TD.
 Ekstraordinært årsmøte skal avholdes på samme måte som et ordinært årsmøte. Bare saker fremmet før fristen kan behandles.
