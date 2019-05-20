@@ -1,0 +1,10 @@
+{
+  "no-emphasis-as-heading": false,
+  "blanks-around-headings": false,
+  "no-inline-html": false,
+  "line-length": false,
+  "list-marker-space": false,
+  "blanks-around-lists": false,
+  "first-line-heading": false,
+  "header-increment": false
+}
