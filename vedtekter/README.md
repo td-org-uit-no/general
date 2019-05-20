@@ -26,7 +26,7 @@ Sakspapirer offentliggjøres én uke før møtet.
 
 3.  Alle studenter som er registrert medlem i TD møter med tale-, forslags- og stemmerett.
 
-4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2-2.3.
+4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2.2.3.
 
 ### §2.3 Saker som behandles på årsmøtet
 Årsmøtet skal behandle:
@@ -44,7 +44,7 @@ Sakspapirer offentliggjøres én uke før møtet.
 Studenter kan sende inn saker til årsmøtet inntil åtte dager før møtet avholdes. Forslag til vedtak som kommer under møtet må komme skriftlig til møteleder.
 
 ### §2.3.1
-I forkant av årsmøte vil det være mulig å gjøre en nominasjon av æresmedlem i TD. Æresmeldlem utnevnet basert på kriteriene i §4.5.1
+I forkant av årsmøtet vil det være mulig å gjøre en nominasjon av æresmedlem i TD. Æresmeldlem utnevnet basert på kriteriene i §4.5.1
 
 ### §2.4 Ekstraordinært årsmøte
 Ekstraordinært årsmøte skal avholdes ved skriftlig krav fra minst 5 medlemmer i TD.
@@ -119,7 +119,7 @@ Teknisk ansvarlig har hovedansvar for teknisk drift i regi av TD.
 Dette inkluderer drift av serverrom, andre tekniske installasjoner, samt teknisk bistand ved arrangmenter.
 
 #### §4.2.6 Kommunikasjonsansvarlig
-Kommunikasjonsansvarlig har hovedansvar for TDs kommunikasjon uttad.
+Kommunikasjonsansvarlig har hovedansvar for TDs kommunikasjon utad.
 Denne kommunikasjonen inkluderer å gjøre tilgjengelig og holde ved like informasjonen som finnes om foreningen og dens virke.
 
 ### §4.3 Møtevirksomhet
@@ -159,11 +159,11 @@ TD skal ta et honorar på femtusen (5000) NOK for alle typer aktiviteter med bed
 Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er enige om et unntak kan dette gjøres, noe som må reflekteres i møtereferatet.
 
 ### §4.5 Æresmedlem
-Æresmedlem er den høyeste utmerkelsen i foreningen. Ett æresmedlem gis utover ett vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
+Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover ett vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
 
 ### §4.5.1 Utnevnelse av æresmedlem
 
-Æresmedlem skal nomineres i forkant av ett årsmøte, hvor en vurdering vil bli gjort av styremedlemmene i TD. Æresmedlem er ikke begrenset til medlemmer eller tidligere medlemmer av foreningen, men utnevnes etter vurdering av følgende kriterier:
+Æresmedlem skal nomineres i forkant av et årsmøte, hvor en vurdering vil bli gjort av styremedlemmene i TD. Æresmedlem er ikke begrenset til medlemmer eller tidligere medlemmer av foreningen, men utnevnes etter vurdering av følgende kriterier:
 - En sterk ressurs som har utøvd betydelig arbeid utover forventningene av sin rolle i foreningen.
 - Har gjennom sitt arbeid lagt til rette særlig fortjeneste for foreningen.
 
