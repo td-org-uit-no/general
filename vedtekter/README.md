@@ -21,12 +21,12 @@ Medlemmene av TD har taushetsplikt i alle saker og henvendelser der personvern e
 ### §2.2 Generelle bestemmelser
 1.  Årsmøtet skal avholdes i vårsemesteret.
 
-2.  Innkalling til årsmøte skal offentliggjøres senest to uker før møtet.
+2.  Innkalling til årsmøte skal offentliggjøres senest to uker før møtet.
 Sakspapirer offentliggjøres én uke før møtet.
 
 3.  Alle studenter som er registrert medlem i TD møter med tale-, forslags- og stemmerett.
 
-4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2-2c.
+4.  Årsmøtet er vedtaksdyktig dersom det er minimum 10 studenter som beskrevet i §2.2.3.
 
 ### §2.3 Saker som behandles på årsmøtet
 Årsmøtet skal behandle:
@@ -42,6 +42,9 @@ Sakspapirer offentliggjøres én uke før møtet.
 5.  Valg av nytt styre til TD jf. §4-1 og §4-2.
 
 Studenter kan sende inn saker til årsmøtet inntil åtte dager før møtet avholdes. Forslag til vedtak som kommer under møtet må komme skriftlig til møteleder.
+
+### §2.3.1
+I forkant av årsmøtet vil det være mulig å gjøre en nominasjon av æresmedlem i TD. Æresmedlem utnevnes basert på kriteriene i §4.5.1
 
 ### §2.4 Ekstraordinært årsmøte
 Ekstraordinært årsmøte skal avholdes ved skriftlig krav fra minst 5 medlemmer i TD.
@@ -65,10 +68,10 @@ Det er kun studenter som er stemmeberettigede ved årsmøtet som kan stille til 
 6.  Kandidater skal gis anledning til en kort presentasjon
 
 ### §3.3 Årsmøteperiode
-En årsmøteperiode defineres som perioden fra og med 1. august inneværende år til og med 31. juli påfølgende år.
+En årsmøteperiode defineres som perioden fra og med 1. august inneværende år til og med 31. juli påfølgende år.
 
 ### §3.4 Diversifisering
-Det skal tilstrebes en difersifisering av medlemmene i TD, være seg kjønn og alder/kull.
+Det skal tilstrebes en diversifisering av medlemmene i TD, være seg kjønn og alder/kull.
 
 ### §3.5 Supplering av TD
 Hvis det oppstår en situasjon der styret ikke er fylt opp på årsmøtet, eller noen fratrer sitt verv i løpet av årsmøteperioden kan det resterende styret selv avgjøre om de ønsker å supplere seg selv eller arrangere et ekstraordinært årsmøte.
@@ -86,6 +89,8 @@ Ledelsen i TD heter styret og består av
 4.  én arrangementsansvarlig
 
 5.  én eller to teknisk ansvarlige
+
+6. én kommunikasjonsansvarlig
 
 Styret og medlemmene avgjør selv hvorvidt det skal være en eller to teknisk ansvarlige når det nye styret velges på årsmøtet.
 
@@ -107,11 +112,15 @@ Nestleder har stemmerett i styret og TD. Nestleder fungerer vanligvis som refere
 
 #### §4.2.4 Arrangementansvarlig
 Arrangementansvarlig har hovedansvaret for planlegging og gjennomføring av arrangementer i regi av TD.
-Arrangementansvarlig kan også sette ned en arrangementskommité for hvert spesifikt arrangement.
+Arrangementansvarlig kan også sette ned en arrangementskomité for hvert spesifikt arrangement.
 
 #### §4.2.5 Teknisk ansvarlig
 Teknisk ansvarlig har hovedansvar for teknisk drift i regi av TD.
-Dette inkluderer drift av serverrom, andre tekniske installasjoner, samt teknisk bistand ved arrangmenter.
+Dette inkluderer drift av serverrom, andre tekniske installasjoner, samt teknisk bistand ved arrangementer.
+
+#### §4.2.6 Kommunikasjonsansvarlig
+Kommunikasjonsansvarlig har hovedansvar for TDs kommunikasjon utad.
+Denne kommunikasjonen inkluderer å gjøre tilgjengelig og vedlikeholde informasjonen som finnes om foreningen og dens virke.
 
 ### §4.3 Møtevirksomhet
 #### §4.3.1 Intern møtevirksomhet
@@ -141,13 +150,24 @@ Ved stemmelikhet har leder dobbeltstemme.
 11. Styret kan gis fullmakt til å gjøre vedtak i hastesaker.
 
 #### §4.3.2 Årsmøtet
-TD skal avholde et årsmøte én gang tidlig på høstsemesteret.
+TD skal avholde et årsmøte én gang sent på vårsemesteret.
 Hensikten med årsmøtet er å velge et nytt styre, samt å opprettholde kontakt med medlemsmassen.
 Etter endt årsmøte skal det sendes inn styreendringer til Brønnøysundregistrene i henhold til deres instrukser.
 
-### §4.4 Bedriftaktiviteter
+### §4.4 Bedriftsaktiviteter
 TD skal ta et honorar på femtusen (5000) NOK for alle typer aktiviteter med bedrifter der TD benytter sin posisjon for å sette bedriften i kontakt med TDs studenter.
 Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er enige om et unntak kan dette gjøres, noe som må reflekteres i møtereferatet.
+
+### §4.5 Æresmedlem
+Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover et vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
+
+### §4.5.1 Utnevnelse av æresmedlem
+
+Æresmedlem skal nomineres i forkant av et årsmøte, hvor en vurdering vil bli gjort av styremedlemmene i TD. Æresmedlem er ikke begrenset til medlemmer eller tidligere medlemmer av foreningen, men utnevnes etter vurdering av følgende kriterier:
+- En sterk ressurs som har utøvd betydelig arbeid utover forventningene av sin rolle i foreningen.
+- Har gjennom sitt arbeid lagt til rette særlig fortjeneste for foreningen.
+
+Det presiseres viktighet i vurderingen av kriteriene, slik at inflasjon av æresmedlemskap unngås.
 
 ## §5 Sanksjoner
 ### §5.1 Iverksettelse av sanksjoner
