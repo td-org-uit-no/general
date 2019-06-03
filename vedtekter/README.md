@@ -159,7 +159,7 @@ TD skal ta et honorar på femtusen (5000) NOK for alle typer aktiviteter med bed
 Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er enige om et unntak kan dette gjøres, noe som må reflekteres i møtereferatet.
 
 ### §4.5 Æresmedlem
-Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover ett vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
+Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover et vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
 
 ### §4.5.1 Utnevnelse av æresmedlem
 
