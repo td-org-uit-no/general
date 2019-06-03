@@ -90,9 +90,9 @@ Ledelsen i TD heter styret og består av
 
 5.  én eller to teknisk ansvarlige
 
-Styret og medlemmene avgjør selv hvorvidt det skal være en eller to teknisk ansvarlige når det nye styret velges på årsmøtet.
-
 6. én kommunikasjonsansvarlig
+
+Styret og medlemmene avgjør selv hvorvidt det skal være en eller to teknisk ansvarlige når det nye styret velges på årsmøtet.
 
 ### §4.2 Arbeidsbeskrivelse
 For alle styremedlemmer forventes det at man møter opp på møter og aktiviteter i regi av TD, samt utfører de arbeidsoppgaver man har påtatt seg.
@@ -120,7 +120,7 @@ Dette inkluderer drift av serverrom, andre tekniske installasjoner, samt teknisk
 
 #### §4.2.6 Kommunikasjonsansvarlig
 Kommunikasjonsansvarlig har hovedansvar for TDs kommunikasjon utad.
-Denne kommunikasjonen inkluderer å gjøre tilgjengelig og holde ved like informasjonen som finnes om foreningen og dens virke.
+Denne kommunikasjonen inkluderer å gjøre tilgjengelig og vedlikeholde informasjonen som finnes om foreningen og dens virke.
 
 ### §4.3 Møtevirksomhet
 #### §4.3.1 Intern møtevirksomhet
