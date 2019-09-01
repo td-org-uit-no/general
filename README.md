@@ -4,6 +4,4 @@
 * Referater kan finnes under [`/referater/`](./referater/)
 * Vedtekter kan finnes under [`/vedtekter/`](./vedtekter/)
 * Innkallinger kan finnes under [`/innkallinger/`](./innkallinger/)
-
-
-
+* Server-reglement og mal for søknad kan finnes under [`/server-reglement/`](./server-reglement/)
