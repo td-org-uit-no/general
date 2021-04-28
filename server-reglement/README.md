@@ -1,6 +1,6 @@
 # Reglement for servere plassert hos Tromsøstudentenes Dataforening(TD)
 
-_Endret: 2019-01-15_
+_Endret: 2021-04-09_
 
 
 
@@ -16,9 +16,10 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 - Bjørn Johansen
     - Tlf: 48237095
     - Mail: bjorn.l.johansen@uit.no
+
 #### TDs styre
 - Mail: td@list.uit.no
-    
+
 
 ## §2 Protokoller og standarder
 ### DNS
@@ -45,6 +46,7 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
     - IRC-servere
     - NTP-servere
     - E-post-servere
+    - RDP-servere
 
 - TDs servernett er omfattet av UiT og Uninetts grenseaksesslister og Uninett/Nordunets DDoS-beskyttelse. Medlemmer av TD forplikter seg til enhver tid å respektere disse, og det vil ikke være aktuelt å åpne opp i disse på grunnlag av ønsker fra TD.
 
@@ -75,5 +77,5 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 - Teknisk ansvarlige har i utgangspunktet taushetsplikt om forhold som kan ramme tap av personvern, omdømme eller andre forhold.
 
-## §5 Sanksjoner og mislihold
+## §5 Sanksjoner og mislighold
 - Ved manglende etterkommelse av krav beskrevet i §3, vil utstyr kunne midlertidig eller permanent kobles fra TDs infrastruktur og fjernes, og dersom eier ikke melder seg innen rimelig tid, så vil utstyret bli lagret og til slutt tilfalle TDs eie.
