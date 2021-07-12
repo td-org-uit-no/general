@@ -86,13 +86,13 @@ Ledelsen i TD heter styret og består av
 
 3.  én økonomiansvarlig
 
-4.  én arrangementsansvarlig
+4.  én eller to arrangementsansvarlige
 
 5.  én eller to teknisk ansvarlige
 
-6. én kommunikasjonsansvarlig
+6.  én eller to kommunikasjonsansvarlige
 
-Styret og medlemmene avgjør selv hvorvidt det skal være en eller to teknisk ansvarlige når det nye styret velges på årsmøtet.
+Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, teknisk-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet.
 
 ### §4.2 Arbeidsbeskrivelse
 For alle styremedlemmer forventes det at man møter opp på møter og aktiviteter i regi av TD, samt utfører de arbeidsoppgaver man har påtatt seg.
@@ -111,16 +111,20 @@ Nestleder har stemmerett i styret og TD. Nestleder fungerer vanligvis som refere
 Økonomisk ansvarlig har hovedansvar for TDs økonomi. Dette gjelder både føring av budsjett, regnskap og søknader om økonomisk støtte; gjerne med hjelp fra andre styremedlemmer.
 
 #### §4.2.4 Arrangementansvarlig
-Arrangementansvarlig har hovedansvaret for planlegging og gjennomføring av arrangementer i regi av TD.
-Arrangementansvarlig kan også sette ned en arrangementskomité for hvert spesifikt arrangement.
+Arrangementansvarlig har hovedansvaret for planlegging og gjennomføring av arrangementer i regi av TD. 
+Arrangementansvarlig(e) kan også sette ned en arrangementskomité for hvert spesifikke arrangement.
+
+I henhold til §4.1 vil det være mulig å innsette to arrangementansvarlige.
 
 #### §4.2.5 Teknisk ansvarlig
 Teknisk ansvarlig har hovedansvar for teknisk drift i regi av TD.
 Dette inkluderer drift av serverrom, andre tekniske installasjoner, samt teknisk bistand ved arrangementer.
 
 #### §4.2.6 Kommunikasjonsansvarlig
-Kommunikasjonsansvarlig har hovedansvar for TDs kommunikasjon utad.
-Denne kommunikasjonen inkluderer å gjøre tilgjengelig og vedlikeholde informasjonen som finnes om foreningen og dens virke.
+Kommunikasjonsansvarlig(e) har hovedansvar for TDs kommunikasjon utad. 
+Denne kommunikasjonen inkluderer tilgjengeliggjøring og vedlikehold av informasjonen som finnes om foreningen og dens virke.
+
+I henhold til §4.1 vil det være mulig å innsette to kommunikasjonsansvarlige. Ansvaret vil da deles i to områder; bedriftskommunikasjon og studentkommunikasjon.
 
 ### §4.3 Møtevirksomhet
 #### §4.3.1 Intern møtevirksomhet
@@ -161,13 +165,23 @@ Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er en
 ### §4.5 Æresmedlem
 Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover et vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
 
-### §4.5.1 Utnevnelse av æresmedlem
+#### §4.5.1 Utnevnelse av æresmedlem
 
 Æresmedlem skal nomineres i forkant av et årsmøte, hvor en vurdering vil bli gjort av styremedlemmene i TD. Æresmedlem er ikke begrenset til medlemmer eller tidligere medlemmer av foreningen, men utnevnes etter vurdering av følgende kriterier:
 - En sterk ressurs som har utøvd betydelig arbeid utover forventningene av sin rolle i foreningen.
 - Har gjennom sitt arbeid lagt til rette særlig fortjeneste for foreningen.
 
 Det presiseres viktighet i vurderingen av kriteriene, slik at inflasjon av æresmedlemskap unngås.
+
+### §4.6 Medlemskap
+Medlemskap av Tromsøstudentenes Dataforening er forbeholdt studenter ved studieretninger tilknyttet Institutt for Informatikk, UiT. Dette gjelder også tidligere studenter ved ovennevnte studieretninger. 
+
+#### §4.6.1 Kontingent
+Det betales ikke medlemskontingent for medlemmer av Tromsøstudentenes Dataforening.
+
+#### §4.6.2 Oppdatering av medlemsstatus
+Tromsøstudentenes Dataforening må årlig oppdatere sin medlemsinformasjon. <br>
+Det forventes at medlemmer i Tromsøstudentenes Dataforening oppdaterer sin status som enten uteksaminert, kommende eller aktiv student, samt årskull og annen informasjon som angår Tromsøstudentenes Dataforening.
 
 ## §5 Sanksjoner
 ### §5.1 Iverksettelse av sanksjoner
