@@ -92,7 +92,9 @@ Ledelsen i TD heter styret og består av
 
 6.  én eller to kommunikasjonsansvarlige
 
-Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, teknisk-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet.
+7. én nettsideansvarlig
+
+Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, teknisk-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet. Alle styremedlemmer har taushetsplikt om de opplysninger de mottar som styremedlemmer.
 
 ### §4.2 Arbeidsbeskrivelse
 For alle styremedlemmer forventes det at man møter opp på møter og aktiviteter i regi av TD, samt utfører de arbeidsoppgaver man har påtatt seg.
@@ -125,6 +127,10 @@ Kommunikasjonsansvarlig(e) har hovedansvar for TDs kommunikasjon utad.
 Denne kommunikasjonen inkluderer tilgjengeliggjøring og vedlikehold av informasjonen som finnes om foreningen og dens virke.
 
 I henhold til §4.1 vil det være mulig å innsette to kommunikasjonsansvarlige. Ansvaret vil da deles i to områder; bedriftskommunikasjon og studentkommunikasjon.
+
+#### §4.2.7 Nettsideansvarlig 
+Nettsideansvarlig har hovedansvar for å fremme drift og utvikling av TD sin nettside. Nettsideansvarlig har overordnet ansvar for å legge ut produsert innhold på nettsiden, samt bistå ved komplikasjoner med drift av nettsiden.
+
 
 ### §4.3 Møtevirksomhet
 #### §4.3.1 Intern møtevirksomhet
@@ -159,8 +165,8 @@ Hensikten med årsmøtet er å velge et nytt styre, samt å opprettholde kontakt
 Etter endt årsmøte skal det sendes inn styreendringer til Brønnøysundregistrene i henhold til deres instrukser.
 
 ### §4.4 Bedriftsaktiviteter
-TD skal ta et honorar på femtusen (5000) NOK for alle typer aktiviteter med bedrifter der TD benytter sin posisjon for å sette bedriften i kontakt med TDs studenter.
-Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er enige om et unntak kan dette gjøres, noe som må reflekteres i møtereferatet.
+TD skal ta et honorar for alle typer aktiviteter med bedrifter der TD benytter sin posisjon for å sette bedriften i kontakt med TDs studenter. Ved spesielle tilfeller der styret ved kvalifisert flertall (2/3-flertall) er enige om et unntak kan dette gjøres, noe som må reflekteres i møtereferatet. TD-styret fastsetter honorarsatser. 
+
 
 ### §4.5 Æresmedlem
 Æresmedlem er den høyeste utmerkelsen i foreningen. Et æresmedlem gis utover et vanlig medlemskap av foreningen heder og ære for sitt virke for foreningen.
