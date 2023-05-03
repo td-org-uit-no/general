@@ -1,6 +1,6 @@
 # Vedtekter for Tromsøstudentenes Dataforening
 
-_7. September 2018_
+_3. Mai 2023_
 
 <hr>
 
@@ -88,13 +88,13 @@ Ledelsen i TD heter styret og består av
 
 4.  én eller to arrangementsansvarlige
 
-5.  én eller to teknisk ansvarlige
+5.  én teknisk ansvarlig
 
 6.  én eller to kommunikasjonsansvarlige
 
 7. én nettsideansvarlig
 
-Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, teknisk-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet. Alle styremedlemmer har taushetsplikt om de opplysninger de mottar som styremedlemmer.
+Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet. Alle styremedlemmer har taushetsplikt om de opplysninger de mottar som styremedlemmer.
 
 ### §4.2 Arbeidsbeskrivelse
 For alle styremedlemmer forventes det at man møter opp på møter og aktiviteter i regi av TD, samt utfører de arbeidsoppgaver man har påtatt seg.
