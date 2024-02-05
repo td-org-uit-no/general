@@ -36,7 +36,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.bump.outputs.new_tag }}
-          name: Version ${{ steps.bump.outputs.new_tag }}
+          name: Vedtekter ${{ steps.bump.outputs.new_tag }}
           draft: false
           prerelease: false
 
