@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'vedtekter/vedtekter.tex'
 
 permissions:
   contents: write
