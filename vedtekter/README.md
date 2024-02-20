@@ -14,6 +14,9 @@ TDs fremste oppgave er å fremme sosialt samhold blant studentene tilhørende in
 ### §1.3 Taushetsplikt
 Medlemmene av TD har taushetsplikt i alle saker og henvendelser der personvern er nødvendig.
 
+### §1.4 Etiske retningslinjer
+Alle medlemmer av TD er underlagt de gjeldende etiske retningslinjer. Alle medlemmer pliktes å sette seg inn i, og handle etter disse. Retningslinjene er definiert i Appendix A av vedtektene.
+
 ## §2 Årsmøtet
 ### §2.1 Formål
 Årsmøtet er det øverste organet for medlemmene i TD.
@@ -92,7 +95,9 @@ Ledelsen i TD heter styret og består av
 
 6.  én eller to kommunikasjonsansvarlige
 
-7. én nettsideansvarlig
+7.  én nettsideansvarlig
+
+8.  én fagansvarlig
 
 Styret og medlemmene vil avgjøre selv hvorvidt det skal være en eller to arrangements-, og kommunikasjonsansvarlige. Dette gjøres ved valg av styret under årsmøtet. Alle styremedlemmer har taushetsplikt om de opplysninger de mottar som styremedlemmer.
 
@@ -130,6 +135,9 @@ I henhold til §4.1 vil det være mulig å innsette to kommunikasjonsansvarlige.
 
 #### §4.2.7 Nettsideansvarlig 
 Nettsideansvarlig har hovedansvar for å fremme drift og utvikling av TD sin nettside. Nettsideansvarlig har overordnet ansvar for å legge ut produsert innhold på nettsiden, samt bistå ved komplikasjoner med drift av nettsiden.
+
+#### §4.2.8 Fagansvarlig
+Fagansvarlig har hovedansvaret for planlegging og gjennomføring av faglige arrangementer i regi av TD. Fagansvarlig kan også sette ned en fagkomité for hvert spesifikke arrangement.
 
 
 ### §4.3 Møtevirksomhet
@@ -216,3 +224,122 @@ Ny leder kan konstitueres frem til neste ordinære årsmøte, jf. § 3-4a.
 ### §6.1 Endringer av vedtekter
 Endringer av vedtekter og reglementer vedtas på årsmøtet.
 Endringer vedtas ved kvalifisert flertall (2/3-flertall). Endringsforslag til vedtektene må sendes inn minst åtte dager før årsmøtet.
+
+# Appendix
+
+## Appendix A: TDs Etiske Retningslinjer
+
+### A.0.1 Innledning
+Ved å følge disse etiske retningslinjene bidrar du til å styrke TD som en trygg, inkluderende og respektfull studentforening ved Universitetet i Tromsø. Din innsats er avgjørende for å opprettholde vår gode kultur og omdømme. Sammen kan vi skape et positivt og berikende studiemiljø for alle våre medlemmer.
+
+### A.0.2 Formål
+Formålet med våre etiske retningslinjer er å definere hvordan vi, som medlemmer av TD, skal opptre mot hverandre og i samfunnet. Dette er med på å skape et trygt og inkluderende miljø for alle våre medlemmer, samtidig som vi sikrer integriteten og omdømmet til foreningen.
+
+### A.0.3 Hvem gjelder retningslinjene for?
+TD sine etiske retningslinjer gjelder for alle medlemmer av foreningen, inkludert nåværende og tidligere studenter som har vært eller er medlemmer. Det er et felles ansvar for alle medlemmer å følge og håndheve disse retningslinjene.
+
+### A.0.4 Varsling
+Alle medlemmer har en plikt til å varsle om brudd på disse retningslinjene. Dette er viktig for å sikre et trygt og inkluderende miljø og for å opprettholde god kultur i TD. Hvordan varsling skal skje, er beskrevet senere i dokumentet.
+
+## A.1 Generelle Prinsipper
+
+### A.1.1 Overholdelse av Lover og Regler
+Som medlem av TD forventes det at du følger norsk lov og regelverk, både innenfor og utenfor universitetet. Ditt medlemskap i foreningen gir deg muligheten til å påvirke samfunnet rundt deg og styrke samholdet med dine medstudenter.
+
+### A.1.2 Respekt og Inkludering
+Medlemmer av TD skal vise respekt for hverandre og behandle alle medmennesker med verdighet og inkludering. Vi forventer at våre medlemmer ikke diskriminerer basert på kjønn, religion, nasjonalitet, alder, funksjonsevne, seksuell orientering eller andre identitetsfaktorer.
+
+### A.1.3 Eiendomsbehandling
+Medlemmer av TD skal behandle foreningens eiendom med respekt og sørge for at den brukes på en ansvarlig måte.
+
+## A.2 Oppførsel og Kultur i TD
+TD Forening forplikter seg til å fremme en positiv og inkluderende kultur blant sine medlemmer. Vi legger vekt på å skape et trygt og respektfullt studiemiljø der alle føler seg velkomne og ivaretatt. I TD skal vi:
+
+### A.2.1 Respekt og Omtanke
+Vi skal ha en kultur der alle medlemmer behandler hverandre med respekt og toleranse. Vi oppfordrer til å hjelpe hverandre og vise omtanke i alle våre aktiviteter. Diskriminering, nedsettende kommentarer og trakassering av noen form er uakseptabelt og vil ikke bli tolerert i TD.
+
+### A.2.2 Nulltoleranse mot Mobbing og Trakassering
+Mobbing og trakassering er absolutt uakseptabelt i TD. Vi tar alle tilfeller av mobbing, diskriminering eller trakassering på alvor. Medlemmer som opplever slik atferd skal føle seg trygge på å melde fra, og vi vil håndtere slike saker med høy prioritet og konfidensialitet.
+
+### A.2.3 Opptreden p ̊a TD-arrangementer
+TD arrangerer en rekke sosiale og faglige arrangementer både internt og i samarbeid med eksterne partnere for våre medlemmer. Denne seksjonen beskriver hvordan våre etiske retningslinjer gjelder for slike arrangementer. I tillegg forventes det at våre medlemmer følger arrangementets regler og retningslinjer som er fastsatt av TD.
+
+#### A.2.3.1 Generelt
+Ved deltakelse på alle TD-arrangementer forventer vi at alle medlemmer opptrer med god oppførsel og vanlig folkeskikk. Deltakerne skal vise respekt for hverandre og arrangørene av arrangementet, og følge de angitte arrangementreglene. Vi aksepterer ikke hærverk, og tilfeller av hærverk vil bli møtt med sanksjoner.
+
+#### A.2.3.2 Med andre studentorganisasjoner
+Når våre medlemmer deltar på arrangementer som er organisert av eller i samarbeid med andre studentorganisasjoner, forventer vi at de opprettholder de samme høye standardene for oppførsel som beskrevet i seksjon Generelt over. Respekt skal vises til alle deltakere, uavhengig av hvilken organisasjon de tilhører. Personer utenfor TD kan rapportere saker angående våre medlemmer. <br/>
+
+Hvis et medlem som representerer TD er involvert i eller utfører handlinger som er i strid med våre etiske retningslinjer under arrangementer organisert av andre studentorganisasjoner, vil TD behandle saken og pålegge sanksjoner hvis nødvendig. <br/>
+
+Hvis et TD-medlem melder fra om en hendelse som involverer noen fra en annen studentorganisasjon, har TD ikke myndighet til å pålegge sanksjoner. Vi vil imidlertid veilede medlemmet best mulig for å henvise saken til riktig instans. Dette kan for eksempel være linjeforeningen til den andre studenten eller UiT, og det oppfordres til å rapportere om upassende hendelser.
+
+#### A.2.3.3 Med bedrifter
+Ved bedriftsarrangementer forventer vi at våre medlemmer viser respekt for at bedriftene investerer tid og ressurser i å presentere seg som mulige arbeidsgivere for TD-medlemmer. Deltakerne skal oppføre seg som gode representanter for TD. <br/>
+
+Hvis det kommer varsler om kritikkverdige forhold angående en representant fra en bedrift, har TD ikke myndighet til å pålegge sanksjoner. Saken vil imidlertid bli videreført til rett instans i bedriften det gjelder.
+
+## A.3 Konsekvenser for Uakseptabel Oppførsel
+
+### A.3.1 Ved Arrangementer
+Ved arrangementer skilles det mellom to typer reaksjoner: umiddelbare sanksjoner og sanksjoner i etterkant av arrangementer.
+
+#### A.3.1.1 Umiddelbare Sanksjoner
+Oppførsel som oppleves som uakseptabel av arrangørene kan føre til umiddelbare konsekvenser, inkludert:
+
+* Muntlige Advarsler: Medlemmet kan bli gitt en muntlig advarsel under eller etter arrangementet.
+* Midlertidig Bortvisning: Medlemmet kan midlertidig utestenges fra arrangementet.
+* Utdeling av Prikk: TDs nettsted kan registrere prikker mot medlemmets oppførsel.
+
+#### A.3.1.2 Sanksjoner i Etterkant
+Hvis det kommer varsler om kritikkverdige forhold i forbindelse med et arrangement, kan sanksjoner med høyere alvorlighetsgrad vurderes i etterkant.
+
+## A.4 Konsekvenser for Brudd p ̊a Retningslinjene
+TD tar brudd på sine etiske retningslinjer alvorlig. Konsekvensene for brudd kan variere avhengig av alvorlighetsgraden av bruddet. Mulige sanksjoner kan inkludere:
+* Advarsler: Medlemmet kan motta en skriftlig advarsel.
+* Suspensjon: Medlemmet kan midlertidig utestenges fra foreningen.
+* Eksklusjon: Medlemmet kan ekskluderes fra foreningen.
+* Anmeldelse til Myndighetene: Alvorlige brudd kan anmeldes til relevante myndigheter i samsvar med gjeldende lover og regler.
+ 
+## A.5 Ulovlige handlinger
+Dersom det oppstår og meldes om ulovlige handlinger som er knyttet til medlemmer av TD, skal disse i hovedsak håndteres av rettshåndhevelsesmyndighetene, og saken skal overføres til politiet. Samtidig vil TD vurdere å pålegge egne sanksjoner basert på alvorlighetsgraden av overtredelsen.
+
+## A.6 Representasjon for TD
+For medlemmer som utfører arbeid på vegne av TD og dermed kan sies å være en representant for foreningen, gjelder følgende retningslinjer i tillegg til våre øvrige bestemmelser:
+
+### A.6.1 Arrangementer
+Medlemmer som arrangerer ting på vegne av TD og som kan anses som i tjeneste for foreningen, forventes å utføre sine oppgaver på en ansvarlig og profesjonell måte. Vi legger stor vekt på tilliten som er plassert i arrangører for å tilby sosiale og faglige aktiviteter til det beste for TD og å forvalte foreningens midler på en forsvarlig måte. Derfor må alle beslutninger tas med TDs beste interesser i tankene. Ansvarlige arrangører må utvise ansvarlig oppførsel og unngå situasjoner der de ikke kan gjennomføre arrangementet på en tilfredsstillende måte.
+
+### A.6.2 Bruk av TDs eiendom og utstyr
+Utstyr som eies av TD og som brukes i forbindelse med våre arrangementer, skal alltid holdes i god stand. Alt som tilhører TD skal behandles og brukes i samsvar med gjeldende regler og retningslinjer. Dersom noen ønsker å bruke TDs utstyr til privat bruk, må dette avklares med ansvarlig for utstyret og skje i samsvar med fastsatte retningslinjer. Det er ikke tillatt å utnytte TDs utstyr på en måte som hindrer andre TD-medlemmers muligheter til å bruke utstyret. <br/>
+
+Ved ødeleggelse eller skade på TDs utstyr kan de ansvarlige pålegges erstatningskrav, i tillegg til andre sanksjoner hvis det anses som nødvendig. Vi skiller her mellom to ulike situasjoner:
+
+* I tjeneste for TD: Hvis skaden oppsto mens medlemmet utførte oppgaver for TD, dekkes skadene av foreningen. Dette gjelder så lenge det ikke er fremvist uaktsomhet.
+* Privat bruk: Hvis utstyret ble skadet utenfor arbeid på vegne av TD, vil medlemmet selv være ansvarlig for økonomisk erstatning.
+ 
+### A.6.3 Taushetsplikt og Konfidensialitet
+Taushetsplikten er en grunnleggende forutsetning for å bevare åpenheten og tilliten i TD. Personer som innehar verv i TD er underlagt taushetsplikt når det gjelder konfidensiell informasjon som er tilegnet gjennom vervet. <br/>
+
+Informasjon som medlemmer får tilgang til gjennom sitt medlemskap eller verv i TD, som kan skade foreningens konkurransefortrinn, skal ikke deles. Dette inkluderer informasjon om priser, prosedyrer, avtaler og kontrakter med eksterne parter. Dette gjelder også informasjon som er tilgjengelig for medlemmer, men som ikke skal deles offentlig.
+
+### A.6.4 Lederverv i TD
+For medlemmer som innehar lederverv i TD, for eksempel medlemmer av styret, komitéledere og andre lederposisjoner, er det avgjørende å være gode forbilder og representanter for foreningen. Avgjørelser som blir tatt må alltid ha TD beste interesser som grunnlag. Det er viktig å være klar over den posisjonen man innehar og beslutningsmyndigheten som er tildelt, og ikke utnytte dette til personlig vinning.
+
+## A.7 Varsling
+Varsling er en viktig mekanisme for å rapportere brudd på disse etiske retningslinjene. TD oppfordrer alle medlemmer til å rapportere ethvert brudd de er vitne til eller blir utsatt for. Varslere vil bli beskyttet mot gjengjeldelse i samsvar med gjeldende lover og regler. Et varsel burde inneholde svar på følgende spørsmål:
+
+* Hva har skjedd?
+* Hvem er involvert?
+* Hvor skjedde det?
+* Når skjedde det?
+* Har det skjedd flere ganger?
+* Var det vitner tilstede?
+
+Varsling kan gjøres skriftlig til TDs styre eller til en uavhengig instans som er utpekt for å håndtere slike saker. Når en varsling mottas, vil den bli behandlet konfidensielt, og det vil bli gjennomført en grundig undersøkelse av påstandene. Påstander som viser seg å være sanne, vil føre til passende tiltak i henhold til TDs retningslinjer og relevante lover.
+
+## A.8 Oppdatering av Retningslinjene
+De etiske retningslinjene skal gjennomgås og oppdateres etter behov for å sikre at de fortsatt reflekterer våre verdier og foreningens formål. Medlemmer vil bli varslet om eventuelle endringer i retningslinjene og oppfordres til å gjennomgå dem regelmessig.
+
+**Sist oppdatert:** 18. september 2023
+
