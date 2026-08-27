@@ -1,4 +1,4 @@
-Møte 15.10.2025  
+Møte 25.10.15 
 Klokka: 16:16 Sted: A039
 
 # Agenda

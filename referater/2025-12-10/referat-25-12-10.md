@@ -1,4 +1,4 @@
-Møte 10.12.2025  
+Møte 25.12.10  
 Klokka: 16:16 Sted: A039
 
 # Agenda
@@ -15,7 +15,7 @@ Klokka: 16:16 Sted: A039
 
 
 
-# Referat styremøte 29.10.2025
+# Referat styremøte 10.12.2025
 
 ## Ansvarsområder – oppdatering
 
